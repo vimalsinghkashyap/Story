@@ -1,1 +1,1 @@
-monday, tuesday, wednesday, thursday, friday
+one two three four five
